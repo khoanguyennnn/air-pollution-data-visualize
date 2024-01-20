@@ -1,5 +1,4 @@
 import NitroPollution from "../graphs/maps/NitroPollution";
-import PlasticOcean from "../graphs/maps/PlasticOcean";
 
 function Map() {
     return (

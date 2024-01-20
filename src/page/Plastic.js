@@ -1,4 +1,3 @@
-import DeathAirPollution from "../graphs/maps/DeathAirPollution";
 import PlasticOcean from "../graphs/maps/PlasticOcean";
 
 function Plastic() {
